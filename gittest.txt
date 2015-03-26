@@ -1,2 +1,3 @@
 Hello Word
 This is the first test for git
+config caching password
